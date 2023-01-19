@@ -61,7 +61,7 @@ def check_if_solution(rings_in,masks_in):
     column_sums = np.sum(rings_masked, axis=0)
 
     # if column sums are all 50, solution found
-    if(list(column_sums) == [50,50,50,50,50,50,50,50,50,50,50,50,50,50,50,50] ): # #[47, 47, 38, 33, 60, 66, 34, 52, 55, 33, 52, 70, 45, 69, 54, 54]
+    if(list(column_sums) == [50,50,50,50,50,50,50,50,50,50,50,50,50,50,50,50] ): 
         return(True)
     else:
         return(False)
