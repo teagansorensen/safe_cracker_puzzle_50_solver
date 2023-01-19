@@ -17,7 +17,7 @@ Simulate this puzzle in python, so that I can brute force it by checking every p
 ## Outcome
 Success!
 
-![image](https://user-images.githubusercontent.com/15304023/213351569-e9feb5f9-95af-4b9d-8f15-0f0c721c78ff.png)
+![image](https://user-images.githubusercontent.com/15304023/213351883-d0f383e9-8079-40dd-91d0-85b985b6d529.png)
 (photo I took of my solved puzzle)
 
 Wasn't too bad to code. I could have done things cleaner using recursion or building a single function to spin the wheels, but I wanted to have fun with this and not go overboard on code design.
