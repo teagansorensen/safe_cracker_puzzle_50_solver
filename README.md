@@ -4,8 +4,7 @@ brute forcing a puzzle a friend gifted me
 ## Background
 A friend gifted me a safe cracker puzzle.
 
-![image](https://user-images.githubusercontent.com/15304023/213350864-8a8a0c39-99c2-4612-b914-51bc3fbd5be7.png)
-(image credit: Mathematica Stack Exchange https://i.stack.imgur.com/zgdCY.jpg)
+![image](https://user-images.githubusercontent.com/15304023/213882297-de624e22-b9e0-4de4-8a4e-7827a98239b9.png)
 
 It has 4 wheels that you can spin, controlling 9 rings of numbers. When you spin a wheel, it spins 2 rings of numbers (or only 1 in the case of the top wheel), and also changes the visibility of numbers on the ring behind that wheel.
 
